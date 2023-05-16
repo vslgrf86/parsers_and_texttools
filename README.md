@@ -6,3 +6,5 @@ dependencies: requests, BeautifulSoup, docx
 
 # text_to_py_list
 It splits a text input into py list items by word
+
+dependencies: nltk
