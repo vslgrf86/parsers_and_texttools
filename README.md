@@ -8,3 +8,7 @@ dependencies: requests, BeautifulSoup, docx
 It splits a text input into py list items by word
 
 dependencies: nltk
+
+
+# py_merge_multiple_csv_files.py
+it merges multiple .csv files into one based on a name convention
