@@ -12,3 +12,6 @@ dependencies: nltk
 
 # py_merge_multiple_csv_files.py
 it merges multiple .csv files into one based on a name convention
+
+# NLTK_Churn
+analysing churn trends from customer feedback
