@@ -22,3 +22,5 @@ dependencies: nltk
 a Sankey P&L chart
 
 dependencies: plotly
+
+![alt text](https://github.com/vslgrf86/py_everyday_toolkit/blob/main/plot.png?raw=true)
