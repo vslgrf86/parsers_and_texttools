@@ -1,4 +1,9 @@
 # py_html_to_docx_parser
+A simple .eml parser. It parses text from downloaded emails and writes it into .xlsx files.
+
+
+
+# py_html_to_docx_parser
 A simple py parser. It copies text from webpages and writes it into .docx files.
 
 dependencies: requests, BeautifulSoup, docx
