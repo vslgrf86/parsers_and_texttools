@@ -1,6 +1,7 @@
 # eml_parser
 A simple .eml parser. It parses text from downloaded emails and writes it into .xlsx files.
 
+dependencies: os, email, openpyxl, html2text
 
 
 # py_html_to_docx_parser
