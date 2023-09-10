@@ -1,4 +1,4 @@
-# py_html_to_docx_parser
+# eml_parser
 A simple .eml parser. It parses text from downloaded emails and writes it into .xlsx files.
 
 
