@@ -1,3 +1,9 @@
+# pdf.py
+A simple .pdf parser. It parses text from .pdf files and writes it into .xlsx files.
+
+dependencies: openpyxl, pyPDF2
+
+
 # eml_parser
 A simple .eml parser. It parses text from downloaded emails and writes it into .xlsx files.
 
