@@ -40,9 +40,6 @@ dependencies: plotly
 
 
 # bank_clearings.py
-
-Here’s a description you can use for your Google Sheet in the context of the GitHub repository:
-
 ---
 
 ### Google Sheet Overview
